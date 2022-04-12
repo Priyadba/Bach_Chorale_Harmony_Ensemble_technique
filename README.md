@@ -1,0 +1,2 @@
+# Bach_Chorale_Harmony_Ensemble_technique
+The dataset we use is Bach Chorale Harmony Data. The dataset contains information of 60 chorales which are divided into 5665 events, each event was described by event number, occurrence of 12 pitches (12 features), bass, meter and chord label.  Analyse the dataset and classify the Chord label by applying machine learning classification using ensemble techniques..
